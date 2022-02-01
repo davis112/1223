@@ -3,9 +3,11 @@
 <html>
 <body>
 
-  <h1>hello world tituls</h1>
+  <h1>hello world tituls
   <p>Paragrāfs</p>
   <br>Izlaist līniju </br>
+  <h1 style="text-align:center">
+  </h1>
   
 </body>
 </html>
