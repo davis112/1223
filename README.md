@@ -4,7 +4,7 @@
 
 <head>
   <title>webpage3</title>
-  <link rel="icon" type="image/png" href="https://icons.iconarchive.com/icons/dapino/summer-holiday/256/sun-icon.png
+  <link rel="icon" type="image/png" href="https://icons.iconarchive.com/icons/dapino/summer-holiday/256/sun-icon.png"
 </head>
   
 <body>
